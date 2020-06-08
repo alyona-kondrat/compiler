@@ -1,5 +1,5 @@
-; ModuleID = "D:\Мои документы\3 курс\Компиляторы\Курсач\Alyona\myparser.py"
-target triple = "x86_64-pc-windows-msvc"
+; ModuleID = "C:\Users\ThisIsLion\Desktop\compiler-master\myparser.py"
+target triple = "i686-pc-windows-msvc"
 target datalayout = ""
 
 define void @"main"() 
